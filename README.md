@@ -5,6 +5,6 @@ Hướng dẫn chạy:
   
 - Mở terminal 2, chạy clent:
 
-        python data_sender/py
+        python data_sender.py
   
   => Chờ đợi kết quả từ server <3
