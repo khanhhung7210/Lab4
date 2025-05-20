@@ -3,7 +3,7 @@ Hướng dẫn chạy:
   
         python training_server.py
   
-- Mở terminal 2, chạy clent:
+- Mở terminal 2, chạy client:
 
         python data_sender.py
   
